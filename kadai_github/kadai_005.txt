@@ -1,0 +1,12 @@
+PS C:\Lesson\git_challenge> git log
+commit 4c2bbdc0afd3e98381be28521320d0bf124724e7 (HEAD -> main, origin/main)
+Author: takahiro-tec <otakahirotg@gmail.com>
+Date:   Mon Jul 1 03:16:26 2024 +0900
+
+    0701_henkou
+
+commit 4ad498a6328a1872331dd5c4fe65ca2e94d3f23b
+Author: takahiro-tec <otakahirotg@gmail.com>
+Date:   Mon Jul 1 03:08:06 2024 +0900
+
+    0701commit
